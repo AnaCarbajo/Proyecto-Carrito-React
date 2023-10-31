@@ -23,6 +23,7 @@ const styles = {
         borderBottom: 'solid 1px #aaa'
     },
     total:{
+        listStyleType: 'none',
         padding: '3px 0px',
         fontWeight: 500,
         textAlign: 'center'
